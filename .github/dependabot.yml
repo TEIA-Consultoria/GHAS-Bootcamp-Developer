@@ -13,6 +13,6 @@ updates:
     assignees:
       - "dungeonstechlead"
     reviewers:
-      - "dragonsengineer"
+      - "SantiagoFigueroaR"
     commit-message:
       prefix: "pip"

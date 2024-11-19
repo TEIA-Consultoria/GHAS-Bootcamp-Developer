@@ -70,6 +70,7 @@ We will go over the following topics:
 - [x] Adding your own code scanning suite to exclude rules
 - [x] Understanding how to add a custom query
 - [x] CodeQL demo
+- [x] Github Copilot Demo
 
 </details>
 
